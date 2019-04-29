@@ -10,8 +10,14 @@ the offical website of smnpo organization.  https://smnpo.github.io
 #### 葫芦 gourd
 *基于消息中间件封装实现的消息总线微服务平台组件*
 #### 佛手 choko
+*基于zuul网关实现的中台单点登录
 #### 黄瓜 cucumber
+*运行参数管控平台
 #### 西瓜 watermelon
-#### 南瓜 pumpkin 
+*事件驱动规则中心服务
+#### 南瓜 pumpkin
+*基于zuul实现调用链路追中平台
 #### 绞瓜 wringmelon
+*数据字典服务
 #### 香瓜 muskmelon
+轻量级工作流实现Demo
